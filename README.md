@@ -28,3 +28,4 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+![Screen Shot 2022-07-03 at 11 27 50 PM](https://user-images.githubusercontent.com/98365942/177076518-33ed59d9-3f59-456f-ae52-b7ac35c14a35.png)
